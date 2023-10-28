@@ -1,0 +1,168 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  * {
+    font-family: 'Comfortaa','Poppins', 'sans-serif';
+  }
+  
+  .h-font {
+    font-family: 'Comfortaa', 'cursive';
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .costom-bg {
+    background-color: cyan;
+  }
+  
+  .btn-primarry {
+    background-color: darkcyan !important;
+    color: white !important;
+  }
+  
+  .btn-primarry:hover {
+    background-color: #555 !important;
+    border-color: #555 !important;
+  }
+  
+  .availabilty-form {
+    margin-top: -50px;
+    z-index: 2;
+    position: relative;
+  }
+  
+  .myNav {
+    background-color: darkcyan !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-top: 10px;
+  }
+  
+  .myNav a {
+    color: #fff !important;
+  }
+  
+  .myNav a:hover {
+    color: #32c48d !important;
+  }
+  
+  .navbar-brand.logo {
+    color: #0d1432;
+  }
+  
+  .navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+  }
+  
+  .footerLinks a:hover {
+    color: #17c788 !important;
+  }
+  
+  .btn-primary {
+    background-color: #0e87cc !important;
+  }
+  
+  .row.copyright {
+    margin: 0 3%;
+    border-bottom: 1px solid #ececec;
+  }
+  
+  .row.copyright h5 {
+    color: #32c48d !important;
+  }
+  
+  .what-we-do {
+    background-color: #f8f9fa;
+  }
+  
+  .icons {
+    color: #32c48d !important;
+  }
+  
+  .pop:hover {
+    border-bottom-color: #17c788 !important;
+    background-color: white !important;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    transform: scale(1.03);
+    transition: all 0.3s;
+  }
+  
+  #person-icon {
+    color: white;
+  }
+  
+  #person-icon:hover {
+    color: wheat;
+  }
+  
+  .h-line {
+    width: 120px;
+    margin: 0 auto 7px;
+    height: 1.7px;
+    background-color: #17c788;
+  }
+  
+  .h-line2 {
+    width: 60px;
+    margin: 0 auto;
+    height: 1.7px;
+    background-color: #17c788;
+  }
+  
+  .dropdown-menu {
+    background-color: darkcyan !important;
+  }
+  
+  #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #32c48d;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  #myBtn:hover {
+    background-color: #555;
+  }
+  
+  a.weDo {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a.weDo:hover {
+    color: black;
+  }
+  
+  .container-fluid {
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 100%;
+  }
+  
+  .myNav {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  .navbar-toggler {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  

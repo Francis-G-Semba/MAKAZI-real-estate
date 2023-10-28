@@ -1,0 +1,43 @@
+*{
+    font-family: 'Poppins', 'sans-serif';
+}
+.h-font{
+    font-family: 'Merienda', 'cursive';
+}
+.availabilty-form{
+margin-top: -50px;
+z-index: 2;
+position: relative ;
+}
+.myheader{
+    background-color: darkcyan;
+    padding: 25px;
+    
+}
+
+.navbar-brand.logo{
+    color: #0d1432;
+}
+@media screen and (max-width: 575px) {
+.availabilty-form{
+    margin-top: 25px;
+    padding: 0 35px;
+}
+
+}
+.btn-primary{
+background-color: #0e87cc !important;
+}
+
+.row.copyright{
+    margin: 0 3%;
+    border-bottom: 1px solid #ececec;
+}
+
+.row.copyright h5 {
+    color: rgba(11, 191, 141, .8);
+}
+
+.row.we-do{
+    background-color: #74777b;
+}
